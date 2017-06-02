@@ -24,7 +24,7 @@ Guide \| Empower \| Connect
 
 ---
 
-The mission of Just Arrived is enrich and empower the labor market by guiding, empowering and connecting foreign-born competence with the staffing needs of Swedish companies.
+The mission of Just Arrived is to enrich and empower the labor market by guiding, empowering and connecting foreign-born competence with the staffing needs of Swedish companies.
 
 ---
 
@@ -211,16 +211,26 @@ This actually makes the previous code work :trollface:
 
 ---
 
+## By the way we're hiring
+
+<img class="natural-image" src="images/justarrived-logo.png" style="max-width:400px">
+
+---
+
 <img class="natural-image" src="images/justarrived-logo.png" style="max-width:400px">
 
 Guide \| Empower \| Connect
 
 ---
 
+<img class="natural-image" src="images/justarrived-logo.png" style="max-width:400px">
+
+---
+
 # Questions?
 
 ## github.com/buren
-## keybase.io/buren
+## github.com/justarrived
 
 <img class="natural-image" src="images/justarrived-logo.png" style="max-width: 300px;"/>
 
