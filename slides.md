@@ -36,6 +36,14 @@ Built up by over 200 volunteers, representing 60 companies and authorities in Sw
 
 ---
 
+<img class="natural-image" src="images/job-card.png" style="max-width:400px">
+
+---
+
+<img class="natural-image" src="images/profile.png" style="max-width:400px">
+
+---
+
 # GOTO
 
 ## [jacobburenstam.com/openhack-uppsala](http://jacobburenstam.com/openhack-uppsala)
