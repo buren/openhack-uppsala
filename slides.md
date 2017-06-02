@@ -20,7 +20,7 @@ _Goto_: http://jacobburenstam.com/openhack-uppsala
 
 <img class="natural-image" src="images/justarrived-logo.png" style="max-width:400px">
 
-Guide | Empower | Connect
+Guide \| Empower \| Connect
 
 ---
 
@@ -68,6 +68,18 @@ Built up by over 200 volunteers, representing 60 companies and authorities in Sw
 
 ---
 
+# I have a special relationship with OpenHack
+
+---
+
+# Malmö December, 2015
+
+### First lines of code written for Just Arrived
+
+# @ OpenHack
+
+---
+
 ### Disclaimer
 
 * __Personal__ opinions, __not__ the opinions of my employer.
@@ -94,7 +106,9 @@ Built up by over 200 volunteers, representing 60 companies and authorities in Sw
 
 ---
 
-## By the way, Just Arrived is 100% open source!
+#### By the way
+
+# Just Arrived is 100% open source :heart:
 
 [github.com/justarrived](https://github.com/justarrived)
 
@@ -112,7 +126,37 @@ How can I find more information and/or a guide on how I can get my first job i S
 
 ## Fragmented information
 
-Currently information about
+Currently information for job seekers are spread out.
+
+Arbetsförmedlingen, Skatteverket, Migrationsverket, Försäkringskassan etc
+
+---
+
+### Mission 1
+
+Could the best guides and information be curated by harvesting insights from the many?
+
+---
+
+### Mission 2
+
+Also, is it possible to curate the best information from different authorities and institutions and present it in one place?
+
+---
+
+## Bonus mission
+
+Conceptualize how can users rate/vote/give feedback on content?
+
+---
+
+### Constraints
+
+We all believe in the web. It’s open, searchable, linkable and accessible in a way that native apps, frankly, are not
+
+---
+
+Wikipedia/Stack Overflow for job seekers?
 
 ---
 
@@ -160,6 +204,16 @@ This actually makes the previous code work :trollface:
 * [http://git.io/vnWsf](http://git.io/vnWsf)
 
 <img src="images/github-mark.png" alt="GitHub logo" class="octocat">
+
+---
+
+# Build something awesome
+
+---
+
+<img class="natural-image" src="images/justarrived-logo.png" style="max-width:400px">
+
+Guide \| Empower \| Connect
 
 ---
 
